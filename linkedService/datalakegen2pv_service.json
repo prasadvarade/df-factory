@@ -1,0 +1,12 @@
+{
+	"name": "datalakegen2pv_service",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://datalakegen2pv.dfs.core.windows.net/",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDE2N0VBNDgxLTVDQzgtNEQ3Qy1COTI0LUM4QTI3Mjk4NTkzRF9iZDhkNGRlNi0wN2U0LTRkOGUtOTBjNS0xM2U4M2FlY2I2MDQiDQp9"
+		}
+	}
+}

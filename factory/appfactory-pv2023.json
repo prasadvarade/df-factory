@@ -1,0 +1,9 @@
+{
+	"name": "appfactory-pv2023",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7098f1a4-4ff9-4a72-b740-6302f0e7631b",
+		"tenantId": "60f039bf-ef80-436b-bb38-e38df3e6c9a1"
+	}
+}

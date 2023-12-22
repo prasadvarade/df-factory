@@ -1,0 +1,6 @@
+{
+	"name": "vappvmRuntime",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
